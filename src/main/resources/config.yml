@@ -1,0 +1,12 @@
+#Configuration file v1.0-Release
+#Author: acsn1
+#Contact Me: acsn1#6510
+#Databases supported: [MySQL]
+### In order to use this plugin you must put true to 'enabled' and use a MySQL Database. ###
+
+database:
+  enabled: false
+  #URI -> Make sure to remove the username:password@ from the URI Database String.
+  uri: ''
+  username: ''
+  password: ''

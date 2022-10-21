@@ -1,0 +1,12 @@
+name: BankSystem
+version: '${project.version}'
+main: org.acsn1.banksystem.BankSystem
+api-version: 1.19
+authors: [ acsn1 ]
+description:
+  Discord: acsn1#6510
+commands:
+  bal:
+  setbal:
+  give:
+  earn:
