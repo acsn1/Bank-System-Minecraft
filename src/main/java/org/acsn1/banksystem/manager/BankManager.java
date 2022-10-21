@@ -40,7 +40,7 @@ public class BankManager {
     }
 
     public boolean hasBank(UUID uuid) {
-        boolean opt= false;
+
         for (Bank banks : this.BANKS) {
             if(banks.getHolder().equals(uuid)){
                 return true;
